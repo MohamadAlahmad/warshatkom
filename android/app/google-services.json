@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "848079881999",
+    "project_id": "warshatkom-526a0",
+    "storage_bucket": "warshatkom-526a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848079881999:android:ba99acf711be1d35a2e07a",
+        "android_client_info": {
+          "package_name": "com.example.warshatkom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHyUHhfhvTOam9Mk-MXUNuYYHo9qD-RvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
